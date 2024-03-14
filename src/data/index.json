@@ -1,0 +1,51 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/frontend.png",
+            "title": "Frontend Development",
+            "description": "Frontend web and mobile development using React and Flutter."
+        },
+        {
+            "id": "2",
+            "src": "./img/backend.png",
+            "title": "Backend Development",
+            "description": "Backend web and mobile development using Node.js, Express.js, AWS S3, PostgreSQL, Firebase and other frameworks/databases."
+        },
+        {
+            "id": "3",
+            "src": "./img/ai.png",
+            "title": "AI and Machine Learning",
+            "description": "AI and machine learning using Python, TensorFlow, Keras, and other related libraries."
+        },
+        {
+            "id": "4",
+            "src": "./img/robotics.png",
+            "title": "Robotics and electrical engineering",
+            "description": "Robotics and electrical engineering using microcontrollers and hardwares such as Arduino, Raspberry Pi, FPGA and FRDM-KL25Z built on Arm Cortex-M0+."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/Ichthyolog/ichthyolog_cover.png",
+            "title": "Project Ichthyolog",
+            "description": "Ichtyolog is a cross-platform mobile application dedicated to the accurate documentation of aquatic flora and fauna in Singapore by allowing users to take pictures of aquatic species they come across and share or discuss them with other users on the platform in real-time.",
+            "link": "https://github.com/StevenGX12/ichthyolog"
+        },
+        {
+            "id": "2",
+            "src": "./img/Quizhub/quizhub_cover.png",
+            "title": "Project Quizhub",
+            "description": "Quizhub is a local desktop Java app designed to help students easily record examinable questions and generate quizzes from their very own question bank to test their understanding via a Command Line Interface (CLI)",
+            "link": "https://github.com/StevenGX12/QuizHub/tree/master/docs"
+        },
+        {
+            "id": "3",
+            "src": "./img/F1Racing/f1racing_cover.png",
+            "title": "Project F1Racing",
+            "description": "Project F1Racing is a robotic vehicle built using a FRDM-KL25 board which uses a 32-bit Cortex M0+ Processor Core. The Keil RTX, a royalty-free, deterministic Real-Time Operating System designed for ARM and Cortex-M devices is used for thread(task) scheduling. The robotic vehicle also uses an ESP32 microcontroller for wireless communication and control using a PS4 controller.",
+            "link": "https://github.com/StevenGX12/CG2271-F1Racing"
+        }
+    ]
+}
